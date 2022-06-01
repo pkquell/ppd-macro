@@ -1,6 +1,6 @@
 # ppd-macro
 
-PPD 컨트롤러 입력 관련 문제를 한방에 해결해 주는 매크로입니다.
+[PPD](https://projectdxxx.me/) 컨트롤러 입력 관련 문제를 한방에 해결해 주는 매크로입니다.
 
 CSInput 모드가 필요 없으며
 
