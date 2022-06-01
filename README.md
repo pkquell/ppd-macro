@@ -10,6 +10,7 @@ CSInput 모드가 필요 없으며
 
 | Key | Mapped |
 | - | - |
+| SHARE | Macro ON/OFF Key |
 | △ / Dpad ↑ | w or u |
 | ○ / Dpad → | d or k |
 | × / Dpad ↓ | s or j |
@@ -22,7 +23,6 @@ CSInput 모드가 필요 없으며
 | R1 | jk |
 | L2 | hujk |
 | R2 | hujk |
-| SHARE | Macro ON/OFF Key |
 
 # 설정 방법 (DS4)
 
