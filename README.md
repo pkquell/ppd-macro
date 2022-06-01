@@ -11,10 +11,10 @@ CSInput 모드가 필요 없으며
 | Key | Mapped |
 | - | - |
 | SHARE | Macro On/Off Key |
-| △ / Dpad ↑ | Macro Off : w / Macro On : u |
-| ○ / Dpad → | Macro Off : d / Macro On : k |
-| × / Dpad ↓ | Macro Off : s / Macro On : j |
-| □ / Dpad ← | Macro Off : a / Macro On : h |
+| △ / Dpad ↑ | Macro Off = w<br>Macro On = u |
+| ○ / Dpad → | Macro Off = d<br>Macro On = k |
+| × / Dpad ↓ | Macro Off = s<br>Macro On = j |
+| □ / Dpad ← | Macro Off = a<br>Macro On = h |
 | Left Joystick ← | h |
 | Left Joystick → | k |
 | Right Joystick ← | e |
