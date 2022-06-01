@@ -6,6 +6,8 @@ CSInput 모드 없이 플레이 가능하며
 
 오토핫키 외 다른 프로그램이 필요하지 않습니다.
 
+다운로드 : https://github.com/pkquell/ppd-macro/releases
+
 # 구현 사항 (DS4)
 
 | Key | Mapped |
